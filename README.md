@@ -20,7 +20,7 @@ SEW, modern bir müzik platformunun temel işlevlerini sunmakla birlikte, özell
 Bu proje ile amacım:
 - ✅ Token tabanlı güvenli giriş/çıkış sistemi kurmak
 - ✅ PHP ile RESTful API mimarisi tasarlamak
-- ✅ Kullanıcı, şarkı, sanatçı ve çalma listesi işlemlerini backend mantığıyla oturtmak
+- ✅ Kullanıcı, şarkı, sanatçı işlemlerini güvenlikli şekilde backend mantığıyla oturtmak
 - ✅ Gerçek dünya senaryolarına uygun bir backend yapı sunmak
 
 ---
